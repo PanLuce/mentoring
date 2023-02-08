@@ -3,12 +3,11 @@
 ## O mě
 [Co nabízím?](./ome-cs.md)
 
-## Nejprve
-Bych tě poprosil o úvodní slovo o tobě a proč chceš využít mentoringu pro posun ve své kariéře.
-1. napiš mi o sobě, jaká jsi osobnost, kde pracuješ, fun fact příp. jiné detaily, které chceš sdělit abys dokreslil/a svůj obrázek
-2. máš už vymyšlené nějaké cíle pro svůj rozvoj? super! popiš mi je
-3. nemáš cíle zformulované? nevadí! my na to přijdem, popiš mi co chceš řešit za problém příp. v čem se chceš zlepšit
-  * buď maximálně konkrétní při popisu problému
+## Nejprve..
+..bych tě poprosil o úvodní slovo o tobě a proč chceš využít mentoringu pro posun ve své kariéře.
+1. Napiš mi o sobě, jaká jsi osobnost, kde pracuješ, fun fact příp. jiné detaily, které chceš sdělit abys dokreslil/a svůj obrázek.
+2. Máš už vymyšlené nějaké cíle pro svůj rozvoj? Skvěle! Popiš mi je.
+3. Nemáš cíle zformulované? Nevadí! Společně na to přijdem. Popiš mi co chceš řešit za téma příp. v čem se chceš zlepšit. Neboj se být maximálně konkrétní.
 
 ## 0. setkání
 * ⏳ obvykle trvá 15-60 minut
