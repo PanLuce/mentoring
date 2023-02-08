@@ -25,7 +25,7 @@
 
 ## 1. setkání
 * ⏳ každé setkání trvá 1h a setkáváme se pravidelně co 14 dní
-  * vycházím ze zkušenosti co se osvědčilo, po domluvě je možné dobu upravit
+  * vycházím ze zkušenosti, co se osvědčilo s dalšími mentees - jsme ale každý/á jiný/á a tak po domluvě je možné upravit
 * vyměníme si Slack
   * pro operativní domluvy (např. posunutí termínu kvůli nemoci)
 
