@@ -22,7 +22,7 @@ Bych tě poprosil o úvodní slovo o tobě a proč chceš využít mentoringu pr
 ## Před 1. setkáním
 * 📆 pravidelné pozvánky do kalendáře je na tobě - aneb buď vlastníkem a driverem svého rozvoje
 * 🎧 výběr komunikační platformy (meet, zoom,..) nechám na tobě
-* 💰 platba - je možné zaplatit na dvě částky nebo celé najednou, tedy 4800,- ([QR kód](./half-payment.jpeg)) resp. 9600,- ([QR kód](./full-payment.jpeg))
+* 💰 platba - je možné zaplatit na čtyři, dvě částky nebo celé najednou, tedy 2400,- ([QR kód](./q-payment.jpeg)), 4800,- ([QR kód](./half-payment.jpeg)) nebo 9600,- ([QR kód](./full-payment.jpeg))
 
 ## 1. setkání
 * ⏳ každé setkání trvá 1h a setkáváme se pravidelně co 14 dní
