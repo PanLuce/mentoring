@@ -8,16 +8,16 @@ Bych tě poprosil o úvodní slovo o tobě a proč chceš využít mentoringu pr
 1. napiš mi o sobě, jaká jsi osobnost, kde pracuješ, fun fact příp. jiné detaily, které chceš sdělit abys dokreslil/a svůj obrázek
 2. máš už vymyšlené nějaké cíle pro svůj rozvoj? super! popiš mi je
 3. nemáš cíle zformulované? nevadí! my na to přijdem, popiš mi co chceš řešit za problém příp. v čem se chceš zlepšit
-* buď maximálně konkrétní při popisu problému
+  * buď maximálně konkrétní při popisu problému
 
 ## 0. setkání
 * ⏳ obvykle trvá 15-60 minut
 * oťukáme se
-** probereme vzájemná očekávání
-** aspekt, ve kterém se chceš zlepšit
-** vzájemná chemie
+  * probereme vzájemná očekávání
+  * aspekt, ve kterém se chceš zlepšit
+  * vzájemná chemie
 * cílem tohoto setkání je zjistit zda si vzájemně sedneme
-** je naprosto v pořádku když se v dobrém rozejdeme
+  * je naprosto v pořádku když se v dobrém rozejdeme
 
 ## Před 1. setkáním
 * 📆 pravidelné pozvánky do kalendáře je na tobě - aneb buď vlastníkem a driverem svého rozvoje
@@ -26,9 +26,9 @@ Bych tě poprosil o úvodní slovo o tobě a proč chceš využít mentoringu pr
 
 ## 1. setkání
 * ⏳ každé setkání trvá 1h a setkáváme se pravidelně co 14 dní
-** vycházím ze zkušenosti co se osvědčilo, po domluvě je možné dobu upravit
+  * vycházím ze zkušenosti co se osvědčilo, po domluvě je možné dobu upravit
 * vyměníme si Slack
-** pro operativní domluvy (např. posunutí termínu kvůli nemoci)
+  * pro operativní domluvy (např. posunutí termínu kvůli nemoci)
 
 ## 6. setkání
 * 🎯 jsme s cílem/y na správné cestě?
