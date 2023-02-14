@@ -1,9 +1,9 @@
 ## Jmenuji se Lukáš Vitala, těší mě
 Mentoring je pro mě způsob, kterým se rozvíjíme napříč rolemi a profesními znalostmi. Baví mě na něm jeho různorodost a skutečnost, že je možné se posouvat i přesto, že o práci toho druhého zdánlivě nic nevíme.
 
-Můj LinkedIn profil se všemi detaily o mé profesní kariéře [je k vidění zde](https://www.linkedin.com/in/lukas-vitala-78121061/).
+Vše o mé profesní kariéře je k dispozici na [mém LinkedIn profilu zde](https://www.linkedin.com/in/lukas-vitala-78121061/).
 
-Moje profesní znalosti mi dávají do vínku následující znalosti, které neustále posouvám dále v rámci své práce ale v neposlední řadě i v rámci sdílení těchto zkušeností se svými mentees:
+Moje profesní zkušenosti mi dávají do vínku následující znalosti, které neustále posouvám dále v rámci své práce ale v neposlední řadě i v rámci sdílení těchto zkušeností se svými mentees, s Vámi:
 * 🚀 Agile development
 * ♻️ Software development lifecycle
   * CI pipeline
