@@ -31,8 +31,8 @@ Moje dosavadní profesní zkušenosti mi dávají do vínku následující znalo
 * 📺 Sprint Reviews
 * 📅 Daily Scrum
 
-A každým dnem se učím něco nového..
+Určitě jsem na pár oblastí zapomněl..
 
-Ve volném čase se snažím sportovat ale trochu si v poslední době lžu do kapsy, kdy jsem rád když stihnu alespoň jednu z aktivit, které mám rád - volejbal, lezení, koloběžka, snowboarding, plavání.
-Mimoto jsem nejvíc vytížený blbnutím se svými dětmi, mám kluky moc rád a trávím s nimi prakticky veškerý svůj volný čas.
-O víkendech trajdám s rodinou někde po horách anebo jej trávíme na chalupě v Jeseníkách kde je naprostý klid na pročištění hlavy a nabrání sil do dalšího týdne.
+Ve volném čase se snažím sportovat, ale trochu si v poslední době lžu do kapsy, kdy jsem rád, že stihnu alespoň jednu z aktivit, které mám rád - volejbal, lezení, koloběžka, snowboarding, plavání.
+Mimoto jsem nejvíc vytížený blbnutím se svými dětmi, se svýma klukama trávím prakticky veškerý svůj volný čas.
+O víkendech trajdám s rodinou někde po horách anebo jej trávíme na chalupě v Jeseníkách kde je naprostý klid. Na pročištění hlavy a nabrání sil do dalšího týdne, pro mě, naprostý ideál.
