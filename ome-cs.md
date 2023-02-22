@@ -1,4 +1,4 @@
-## Jmenuji se Lukáš Vitala, těší mě
+## Ahoj! moje jméno je Lukáš Vitala, těší mě
 Mentoring je pro mě způsob, kterým se rozvíjíme napříč rolemi a profesními znalostmi. Baví mě na něm jeho různorodost a skutečnost, že je možné se posouvat i přesto, že o práci toho druhého zdánlivě nic nevíme.
 
 Vše o mé profesní kariéře je k dispozici na [mém LinkedIn profilu zde](https://www.linkedin.com/in/lukas-vitala-78121061/).
