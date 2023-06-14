@@ -3,7 +3,7 @@ Mentoring je pro mě způsob, kterým se rozvíjíme napříč rolemi a profesn�
 
 Vše o mé profesní kariéře je k dispozici na [mém LinkedIn profilu zde](https://www.linkedin.com/in/lukas-vitala-78121061/).
 
-Moje dosavadní profesní zkušenosti mi dávají do vínku následující znalosti, které neustále posouvám dále v rámci své práce jako software engineer s QA mindsetem (toho času ve firmě [Tricentis](https://www.tricentis.com/products?utm_source=google&utm_medium=paidsearch&utm_campaign=Tricentis_Search_Brand_High_EMEA_EN&utm_term=tricentis&gclid=CjwKCAiA_6yfBhBNEiwAkmXy54V6Hj-DVl6i1vpJKdFwvLDsDNJwYoPbLjFxaMp0vf4ukUxFq3T2OxoCpCEQAvD_BwE)), v rámci workshopů (v [Czechitas](https://www.czechitas.cz)), na meetupech (např. [meetup.com](https://www.meetup.com/techmeetupostrava/)) a v neposlední řadě i v rámci sdílení těchto zkušeností se svými mentees, s Vámi:
+Moje dosavadní profesní zkušenosti mi dávají do vínku následující znalosti, které neustále posouvám dále v rámci své práce jako software engineer s QA mindsetem (toho času ve firmě [ThreatMark](https://www.threatmark.com/contact/)), v rámci workshopů (v [Czechitas](https://www.czechitas.cz)), na meetupech (např. [meetup.com](https://www.meetup.com/techmeetupostrava/)) a v neposlední řadě i v rámci sdílení těchto zkušeností se svými mentees, s Vámi:
 * 🚀 Agile development
 * ♻️ Software development lifecycle
   * CI pipeline
