@@ -21,7 +21,7 @@
 ## Před 1. setkáním
 * 📆 pravidelné pozvánky do kalendáře je na tobě - aneb buď vlastníkem a driverem svého rozvoje
 * 🎧 výběr komunikační platformy (meet, zoom,..) nechám na tobě
-* 💰 platba - je možné zaplatit na čtyři, dvě částky nebo celé najednou, tedy 2400,- ([QR kód](./q-payment.jpeg)), 4800,- ([QR kód](./half-payment.jpeg)) nebo 9600,- ([QR kód](./full-payment.jpeg))
+* 💰 platba - protože motivace je důležitá tak jsem časem naznal, že placená služba se "bulá" méně často než služba zdarma - je proto potřeba domluvit se na platbě tak aby to byl motivující a vzájemně rovnocenný vztah
 
 ## 1. setkání
 * ⏳ každé setkání trvá 1h a setkáváme se pravidelně co 14 dní
