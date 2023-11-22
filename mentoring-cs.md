@@ -29,7 +29,15 @@
 * vyměníme si Slack
   * pro operativní domluvy (např. posunutí termínu kvůli nemoci)
 
+## 3. setkání
+* 🎯 jsme s cílem/y na správné cestě?
+* 📣 zpětná vazba
+
 ## 6. setkání
+* 🎯 jsme s cílem/y na správné cestě?
+* 📣 zpětná vazba
+
+## 9. setkání
 * 🎯 jsme s cílem/y na správné cestě?
 * 📣 zpětná vazba
 
