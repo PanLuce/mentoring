@@ -9,6 +9,7 @@ Moje dosavadní profesní zkušenosti mi dávají do vínku následující znalo
   * CI pipeline
   * Continuous Delivery
 * ✅ QA od A do Q
+  * automatizace (jak, kdy, proč, efektivně,..)
   * testing
   * předcházení bugů
   * hlášení bugů
