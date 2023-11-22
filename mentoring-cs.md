@@ -42,5 +42,5 @@
 * 📣 zpětná vazba
 
 ## 12. setkání
-* 🎯 podařilo se ti dosáhnout svých cílů resp. zlepšit ve vybraných oblasti?
+* 🎯 podařilo se ti dosáhnout svých cílů resp. zlepšit ve vybrané oblasti?
 * 📣 finální zpětná vazba
