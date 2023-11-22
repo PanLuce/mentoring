@@ -34,5 +34,7 @@ Moje dosavadní profesní zkušenosti mi dávají do vínku následující znalo
 Určitě jsem na pár oblastí zapomněl..
 
 Ve volném čase se snažím sportovat, ale trochu si v poslední době lžu do kapsy, kdy jsem rád, že stihnu alespoň jednu z aktivit, které mám rád - volejbal, lezení, koloběžka, snowboarding, plavání.
-Mimoto jsem nejvíc vytížený blbnutím se svými dětmi, se svýma klukama trávím prakticky veškerý svůj volný čas.
+Mimoto jsem nejvíc vytížený blbnutím se svými dětmi, se svými 3 dětmi trávím prakticky veškerý svůj volný čas.
 O víkendech trajdám s rodinou někde po horách anebo jej trávíme na chalupě v Jeseníkách kde je naprostý klid. Na pročištění hlavy a nabrání sil do dalšího týdne, pro mě, naprostý ideál.
+
+A co tvůj příběh? ...
