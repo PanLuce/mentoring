@@ -24,10 +24,8 @@
 * 💰 platba - protože motivace je důležitá tak jsem časem naznal, že placená služba se "bulá" méně často než služba zdarma - je proto potřeba domluvit se na platbě tak aby to byl motivující a vzájemně rovnocenný vztah
 
 ## 1. setkání
-* ⏳ každé setkání trvá 1h a setkáváme se pravidelně co 14 dní
-  * vycházím ze zkušenosti, co se osvědčilo s dalšími mentees - jsme ale každý/á jiný/á a tak po domluvě je možné upravit
-* vyměníme si Slack
-  * pro operativní domluvy (např. posunutí termínu kvůli nemoci)
+* ⏳ každé setkání trvá ideálně 1h a setkáváme se pravidelně (každý jsme jiný/á, ale osvědčená frekvence je co 14 dní)
+* vyměníme si Slack nebo jiný komunikační kanál (pro operativní domluvy např. posunutí termínu kvůli nemoci)
 
 ## 3. setkání
 * 🎯 jsme s cílem/y na správné cestě?
