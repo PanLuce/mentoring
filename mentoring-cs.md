@@ -19,9 +19,9 @@
   * je naprosto v pořádku když se v dobrém rozejdeme
 
 ## Před 1. setkáním
-* 📆 pravidelné pozvánky do kalendáře je na tobě - aneb buď vlastníkem a driverem svého rozvoje
-* 🎧 výběr komunikační platformy (meet, zoom,..) nechám na tobě
-* 💰 platba - protože motivace je důležitá tak jsem časem naznal, že placená služba se "bulá" méně často než služba zdarma - je proto potřeba domluvit se na platbě tak aby to byl motivující a vzájemně rovnocenný vztah
+* 📆 poslané pozvánky do kalendáře - to je na tobě, aneb buď vlastníkem a driverem Svého rozvoje
+* 🎧 výběr komunikační platformy (slack, meet, zoom,..) nechám na tobě
+* 💰 platba
 
 ## 1. setkání
 * ⏳ každé setkání trvá ideálně 1h a setkáváme se pravidelně (každý jsme jiný/á, ale osvědčená frekvence je co 14 dní)
