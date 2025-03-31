@@ -4,7 +4,7 @@
 [Co nabízím?](./ome-cs.md)
 
 ## Nejprve..
-..bych tě poprosil o úvodní slovo o tobě a proč chceš využít mentoringu pro posun ve své kariéře.
+..bych tě poprosil o úvodní slovo o Tobě a proč chceš využít mentoringu pro posun ve Své kariéře.
 1. Napiš mi o sobě, jaká jsi osobnost, kde pracuješ, fun fact příp. jiné detaily, které chceš sdělit abys dokreslil/a svůj obrázek.
 2. Máš už vymyšlené nějaké cíle pro svůj rozvoj? Skvěle! Popiš mi je.
 3. Nemáš cíle zformulované? Nevadí! Společně na to přijdem. Popiš mi co chceš řešit za téma příp. v čem se chceš zlepšit. Neboj se být maximálně konkrétní.
